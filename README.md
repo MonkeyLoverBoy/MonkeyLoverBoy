@@ -31,22 +31,22 @@ I'm a Software Engineering student at **Kalvium**, diving deep into the **MERN s
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></a>
 </p>
 
----
 
-📊 **GitHub Stats:**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&layout=compact" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 📫 **Connect with me:**
 
-*   LinkedIn: [https://www.linkedin.com/in/chaitanya-pawar-675306329/]
-*   Email: [Chaitanya09pawar@gmail.com]
-*   Portfolio: [comming soon ]
+<p align="left">
+  <a href="https://www.linkedin.com/in/chaitanya-pawar-675306329/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+  <a href="mailto:Chaitanya09pawar@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
+  <a href="https://leetcode.com/u/Number_k/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Profile" />
+  </a>
+  <!-- For the portfolio, since it's 'coming soon', a non-clickable text or a placeholder is best -->
+  <!-- <img src="https://img.shields.io/badge/Portfolio-Soon-lightgrey.svg?&style=for-the-badge&logo=briefcase&logoColor=black" alt="Portfolio Coming Soon" /> -->
+</p>
 
-<!-- Optional: Add a fun fact or a short personal motto -->
-<!-- ⚡ Fun Fact: I can solve a Rubik's cube in under a minute! -->
+*   Portfolio: Coming Soon
